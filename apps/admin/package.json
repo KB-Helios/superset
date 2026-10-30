@@ -11,7 +11,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@sentry/nextjs": "10.68.0",
+		"@sentry/nextjs": "10.75.2",
 		"@superset/auth": "workspace:*",
 		"@superset/db": "workspace:*",
 		"@superset/shared": "workspace:*",
