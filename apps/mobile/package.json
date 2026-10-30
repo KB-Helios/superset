@@ -132,7 +132,7 @@
 		"@xterm/xterm": "6.1.0-beta.289",
 		"babel-preset-expo": "56.0.11",
 		"expo-mcp": "0.2.4",
-		"storybook": "10.4.2",
+		"storybook": "10.6.2",
 		"typescript": "6.0.3"
 	},
 	"private": true
